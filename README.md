@@ -1,2 +1,2 @@
 # Courses
-Code related to my courses for MS
+Code related to my courses for MS.
